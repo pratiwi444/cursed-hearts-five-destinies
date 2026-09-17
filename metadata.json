@@ -1,0 +1,7 @@
+{
+  "name": "Cursed Hearts: Five Destinies",
+  "description": "3D anime romance, supernatural school life, and action RPG with multiple routes and endings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
